@@ -1,13 +1,13 @@
 body {
     color: white;
-    background: blue;
+    background: rgb(0, 0, 255);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
 }
 
 header {
-    border-bottom: solid 2px rgb(0, 0, 255);
+    border-bottom: solid 2px rgb(255, 0, 0);
     padding: 20px;
     font-size: 32px;
     color: rgb(0, 0, 255);
